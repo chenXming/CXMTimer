@@ -1,8 +1,8 @@
 //
 //  CXMTimer.h
-//  Interview02-GCD定时器
+//  GCD定时器
 //
-//  Created by 陈小明 on 2019/5/29.
+//  Created by cxm on 2019/5/29.
 //  Copyright © 2019 MJ Lee. All rights reserved.
 //
 
